@@ -14,7 +14,7 @@ public class Application {
 		RetanguloMath rectangle = new RetanguloMath();
 		
 		System.out.println(" **** Calculo de medidas do retângulo **** \n");
-		System.out.println("Informe a base ou largura do retângulo: ");
+		System.out.println("Informe a base do retângulo: ");
 		rectangle.width = sc.nextFloat();
 		
 		System.out.println("Informe a altura do rêtangulo: ");
